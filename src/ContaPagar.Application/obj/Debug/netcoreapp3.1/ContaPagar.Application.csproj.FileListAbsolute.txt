@@ -1,0 +1,12 @@
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\bin\Debug\netcoreapp3.1\ContaPagar.Application.deps.json
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\bin\Debug\netcoreapp3.1\ContaPagar.Application.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\bin\Debug\netcoreapp3.1\ContaPagar.Application.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\bin\Debug\netcoreapp3.1\ContaPagar.Domain.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\bin\Debug\netcoreapp3.1\ContaPagar.Domain.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.csprojAssemblyReference.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.AssemblyInfoInputs.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.AssemblyInfo.cs
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.csproj.CoreCompileInputs.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.csproj.CopyComplete
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.pdb

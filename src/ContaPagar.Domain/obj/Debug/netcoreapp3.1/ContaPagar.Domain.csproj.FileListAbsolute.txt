@@ -1,0 +1,9 @@
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\bin\Debug\netcoreapp3.1\ContaPagar.Domain.deps.json
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\bin\Debug\netcoreapp3.1\ContaPagar.Domain.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\bin\Debug\netcoreapp3.1\ContaPagar.Domain.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.csprojAssemblyReference.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.AssemblyInfoInputs.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.AssemblyInfo.cs
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.csproj.CoreCompileInputs.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.pdb

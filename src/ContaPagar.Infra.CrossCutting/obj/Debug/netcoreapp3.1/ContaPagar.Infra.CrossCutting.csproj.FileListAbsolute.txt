@@ -1,0 +1,16 @@
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.deps.json
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.csprojAssemblyReference.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.AssemblyInfo.cs
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Domain.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Infra.Data.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Domain.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Infra.Data.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\ContaPagar.Infra.CrossCutting.csproj.CopyComplete
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Application.dll
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Infra.CrossCutting\bin\Debug\netcoreapp3.1\ContaPagar.Application.pdb
