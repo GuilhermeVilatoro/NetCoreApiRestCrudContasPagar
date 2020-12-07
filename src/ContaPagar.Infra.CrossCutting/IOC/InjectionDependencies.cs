@@ -1,5 +1,7 @@
 ﻿using ContaPagar.Application.Services;
 using ContaPagar.Application.Services.Interfaces;
+using ContaPagar.Domain.Business;
+using ContaPagar.Domain.Business.Interfaces;
 using ContaPagar.Domain.Repository.Interfaces;
 using ContaPagar.Infra.Data.Context;
 using ContaPagar.Infra.Data.Repository;
@@ -26,7 +28,7 @@ namespace ContaPagar.Infra.CrossCutting.IOC
             #endregion region
 
             #region Business 
-            //dependencies.AddScoped<IVinculacaoAutorNoLivroBusiness, VinculacaoAutorNoLivroBusiness>();
+            dependencies.AddScoped<ICalculoMultaJurosContaPagar, CalculoMultaJurosContaPagar>();
             #endregion region
         }
     }

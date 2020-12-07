@@ -10,3 +10,6 @@ D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\
 D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.csproj.CopyComplete
 D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.dll
 D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\bin\Debug\netcoreapp3.1\ContaPagar.Application.runtimeconfig.json
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\bin\Debug\netcoreapp3.1\ContaPagar.Application.runtimeconfig.dev.json
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Application\obj\Debug\netcoreapp3.1\ContaPagar.Application.genruntimeconfig.cache

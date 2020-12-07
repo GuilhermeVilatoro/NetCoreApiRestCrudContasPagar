@@ -21,7 +21,7 @@ namespace ContaPagar.Application.Services.Interfaces
         /// Responsável por deletar a entidade a partir de um identificador.
         /// </summary>
         /// <param name="id"></param>
-        void Delete(int id);
+        void Delete(long id);
 
         /// <summary>
         /// Responsável por deletar a entidade a partir de um viewmodel. 
@@ -34,7 +34,7 @@ namespace ContaPagar.Application.Services.Interfaces
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
-        TEntityViewModel GetById(int id);
+        TEntityViewModel GetById(long id);
 
         /// <summary>
         /// Responsável por buscar todos os registors de uma determinada a entidade.

@@ -21,7 +21,7 @@ namespace ContaPagar.Domain.Repository.Interfaces
         /// Responsável por deletar um registro na entidade pelo identificador.
         /// </summary>
         /// <param name="id">Identificador da entidade</param>
-        void Delete(int id);
+        void Delete(long id);
 
         /// <summary>
         /// Responsável por deletar um registro de acordo com a entidade.
@@ -33,7 +33,7 @@ namespace ContaPagar.Domain.Repository.Interfaces
         /// Responsável por realizar a busca do registo por identificador.
         /// </summary>
         /// <param name="id">Identificador da entidade</param>
-        TEntity GetById(int id);
+        TEntity GetById(long id);
 
         /// <summary>
         /// Responsável por buscar todos os registros de uma entidade.

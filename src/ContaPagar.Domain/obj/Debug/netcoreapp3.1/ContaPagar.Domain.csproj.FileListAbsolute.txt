@@ -7,3 +7,6 @@ D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\Conta
 D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.csproj.CoreCompileInputs.cache
 D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.dll
 D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.pdb
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\bin\Debug\netcoreapp3.1\ContaPagar.Domain.runtimeconfig.json
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\bin\Debug\netcoreapp3.1\ContaPagar.Domain.runtimeconfig.dev.json
+D:\GIT\DeliverIT\CONTASPAGAR\src\ContaPagar.Domain\obj\Debug\netcoreapp3.1\ContaPagar.Domain.genruntimeconfig.cache

@@ -8,7 +8,10 @@ namespace ContaPagar.Application.AutoMapper
     {
         public ViewModelToDomainMappingProfile()
         {
-            CreateMap<ContaPagarViewModel, ContaPagarModel>();            
+            CreateMap<BaseContaPagarViewModel, ContaPagarModel>();
+            CreateMap<DetalheContaPagarViewModel, ContaPagarModel>();
+            CreateMap<AddContaPagarViewModel, ContaPagarModel>();
+            CreateMap<UpdateContaPagarViewModel, ContaPagarModel>();
         }
     }
 }

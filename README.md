@@ -7,7 +7,7 @@
 
 # Tecnologias usadas
 
-* AspNet Core 3.1 (WebApi)
+* AspNet Core 5 (WebApi)
 * Swagger
 * Migration
 * Entity 
@@ -17,5 +17,5 @@
 * DDD (Domain-Driven-Design)
 * SOLID
 * Injeção de dependências
-* Testes unitários (XUNIT)
+* Testes unitários (NUNIT)
 * NSubstitute

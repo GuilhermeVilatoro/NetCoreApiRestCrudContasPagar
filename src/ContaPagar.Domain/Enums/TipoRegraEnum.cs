@@ -8,7 +8,7 @@ namespace ContaPagar.Domain.Enums
         AteTresDias = 0,
 
         [Description("Superior a 3 dias")]
-        SuperiorQuatroDias = 1,
+        SuperiorTresAteCincoDias = 1,
 
         [Description("Superior a 5 dias")]
         SuperiorCincoDias = 2

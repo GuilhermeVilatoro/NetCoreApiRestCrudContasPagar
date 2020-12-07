@@ -29,7 +29,7 @@ namespace ContaPagar.Infra.Data.Repository
             Db.SaveChanges();
         }
 
-        public void Delete(int id)
+        public void Delete(long id)
         {
             Delete(DbSet.Find(id));
         }
@@ -40,7 +40,7 @@ namespace ContaPagar.Infra.Data.Repository
             Db.SaveChanges();
         }
 
-        public TEntity GetById(int id)
+        public TEntity GetById(long id)
         {
             return DbSet.Find(id);
         }

@@ -19,19 +19,19 @@ namespace ContaPagar.Application.Services
             _repository = repository;
         }
 
-        public void Add(TViewModel entityViewModel)
+        public virtual void Add(TViewModel entityViewModel)
         {
             var entity = _mapper.Map<TModel>(entityViewModel);
             _repository.Add(entity);
         }
 
-        public void Update(TViewModel entityViewModel)
+        public virtual void Update(TViewModel entityViewModel)
         {
             var entity = _mapper.Map<TModel>(entityViewModel);
             _repository.Update(entity);
         }
 
-        public void Delete(int id)
+        public void Delete(long id)
         {
             _repository.Delete(id);
         }
@@ -42,7 +42,7 @@ namespace ContaPagar.Application.Services
             _repository.Delete(entity);
         }
 
-        public TViewModel GetById(int id)
+        public TViewModel GetById(long id)
         {
             var entityViewModel = _repository.GetById(id);
             return _mapper.Map<TViewModel>(entityViewModel);
